@@ -1,0 +1,3 @@
+#finance
+
+Simple library to calculate future value, present value, pmts etc...
